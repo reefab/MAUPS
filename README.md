@@ -1,6 +1,6 @@
 # MAUPS
 
-**M**icroSlice **A**rduino **U**no **P**ololu **S**hield.
+MicroSlice Arduino Uno Pololu Shield.
 
 As it says on the tin, this a shield to aggregate all the electronics for the [MicroSlice laser cutter](http://www.instructables.com/id/MicroSlice-A-tiny-Arduino-laser-cutter/).
 
